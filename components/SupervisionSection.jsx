@@ -19,8 +19,7 @@ export default function SupervisionSection() {
             <p className="mt-8 text-[15px] leading-relaxed text-zinc-300">
               Sessions are conducted in a trauma-informed framework and supervised by
               qualified music educators and professionals, including specialists with
-              experience working with children affected by war and forced migration,
-              particularly from Ukraine.
+              experience working with children affected by war and forced migration.
             </p>
 
 
